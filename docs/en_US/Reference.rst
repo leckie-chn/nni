@@ -2,9 +2,9 @@ References
 ==================
 
 ..  toctree::
-    :maxdepth: 3
+    :maxdepth: 2
     
-    Command Line <NNICTLDOC>
+    Command Line <cmd_ref>
     Python API <sdk_reference>
     Annotation <AnnotationSpec>
     Configuration<ExperimentConfig>
